@@ -1,2 +1,0 @@
-# vit-coursera
-coursera assignments
